@@ -1,5 +1,3 @@
-# 
-\Animation Motion Picture
-\Play and Earn game
-\In development
+# Lite Paper
+In development
 
